@@ -1,0 +1,3 @@
+C:\Users\gorge\source\repos\how-work-queue-stack\how-work-queue-stack\Debug\how-work-queue-stack.vcxprojAssemblyReference.cache
+C:\Users\gorge\source\repos\how-work-queue-stack\how-work-queue-stack\Debug\howworkqueuestack.MyForm.resources
+C:\Users\gorge\source\repos\how-work-queue-stack\how-work-queue-stack\Debug\how-work-queue-stack.vcxproj.GenerateResource.cache
